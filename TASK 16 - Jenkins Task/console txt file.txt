@@ -1,0 +1,7 @@
+Started by user KARTHI S V
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/DEMO PROJECT
+[DEMO PROJECT] $ /bin/sh -xe /tmp/jenkins13262199174484861303.sh
++ echo Jenkins project running!
+Jenkins project running!
+Finished: SUCCESS
